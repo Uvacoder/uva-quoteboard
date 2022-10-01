@@ -9,7 +9,7 @@ export const Footer: React.FC = () => {
     <footer className={styles.footer}>
       <div className={styles.copyright}>
         <a
-          href='https://twitter.com/transitive_bs'
+          href='https://twitter.com/VaLandscapes'
           target='_blank'
           rel='noopener noreferrer'
         >
@@ -20,7 +20,7 @@ export const Footer: React.FC = () => {
       <div className={styles.social}>
         <a
           className={styles.twitter}
-          href='https://twitter.com/transitive_bs'
+          href='https://twitter.com/VaLandscapes'
           title={`Twitter ${twitter}`}
           target='_blank'
           rel='noopener noreferrer'
