@@ -7,10 +7,10 @@ export const isSafari =
 export const title = 'Kwote'
 export const description =
   'Kwote is a simple, free webapp for creating beautiful quotes that capture your attention.'
-export const author = 'Travis Fischer'
-export const twitter = 'transitive_bs'
+export const author = 'uvacoder'
+export const twitter = 'VaLandscapes'
 export const domain = 'kwote.app'
-export const githubRepoUrl = 'https://github.com/transitive-bullshit/kwote'
+export const githubRepoUrl = 'https://github.com/uvacoder/kwote'
 export const copyright = `Copyright 2022 ${author}`
 
 export const port = process.env.PORT || '3000'
