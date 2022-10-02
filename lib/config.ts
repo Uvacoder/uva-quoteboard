@@ -4,13 +4,13 @@ export const isServer = typeof window === 'undefined'
 export const isSafari =
   !isServer && /^((?!chrome|android).)*safari/i.test(navigator.userAgent)
 
-export const title = 'Kwote'
+export const title = 'quoteboard'
 export const description =
-  'Kwote is a simple, free webapp for creating beautiful quotes that capture your attention.'
+  'quoteboard is a simple, free webapp for creating beautiful quotes that capture your attention.'
 export const author = 'uvacoder'
 export const twitter = 'VaLandscapes'
 export const domain = 'kwote.app'
-export const githubRepoUrl = 'https://github.com/uvacoder/kwote'
+export const githubRepoUrl = 'https://github.com/uvacoder/abc-quoteboard'
 export const copyright = `Copyright 2022 ${author}`
 
 export const port = process.env.PORT || '3000'
