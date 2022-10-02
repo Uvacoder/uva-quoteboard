@@ -9,7 +9,7 @@ export const description =
   'quoteboard is a simple, free webapp for creating beautiful quotes that capture your attention.'
 export const author = 'uvacoder'
 export const twitter = 'VaLandscapes'
-export const domain = 'kwote.app'
+export const domain = 'quoteboard.vercel.app'
 export const githubRepoUrl = 'https://github.com/uvacoder/abc-quoteboard'
 export const copyright = `Copyright 2022 ${author}`
 
